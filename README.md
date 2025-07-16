@@ -34,6 +34,7 @@ WalMat es una aplicación de eCommerce moderna y responsiva, construida con Reac
 * **Manejo de Estado:** [React Context API](https://react.dev/learn/passing-props-with-context) (para carrito y autenticación)
 * **Almacenamiento de Datos (Simulado):** `localStorage` del navegador para persistencia de usuarios y datos de API mockeados.
 * **Mock API:** [MockAPI.io](https://mockapi.io/) (utilizado para simular el backend de productos).
+  "https://mockapi.io/projects/6876c8a2dba809d901ed1850"
 
 ## Instalación y Uso
 
