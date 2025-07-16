@@ -1,6 +1,6 @@
 # WalMat - Tu Tienda Online
 
-![WalMat Logo](C:\Users\Mati\Downloads\react\ProyectoFinal\src\icons\walmat.png) ## Descripción del Proyecto
+![WalMat Logo](src/icons/walmat.png) ## Descripción del Proyecto
 
 WalMat es una aplicación de eCommerce moderna y responsiva, construida con React, que permite a los usuarios explorar productos, gestionar un carrito de compras y (para usuarios autorizados) administrar el inventario de productos. El objetivo principal de WalMat es ofrecer una experiencia de compra online intuitiva y eficiente.
 
