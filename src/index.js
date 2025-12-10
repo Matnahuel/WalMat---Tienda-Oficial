@@ -4,12 +4,12 @@ import 'react-toastify/dist/ReactToastify.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './src/App';
+import App from './App';
 
 import { ToastContainer } from 'react-toastify';
 
-import { CarritoProvider } from './src/context/CarritoContext';
-import { AuthProvider } from './src/context/AuthContext';
+import { CarritoProvider } from './context/CarritoContext';
+import { AuthProvider } from './context/AuthContext';
 import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
