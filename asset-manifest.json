@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WalMat---Tienda-Oficial/static/css/main.b325cf89.css",
-    "main.js": "/WalMat---Tienda-Oficial/static/js/main.94eb5b86.js",
+    "main.js": "/WalMat---Tienda-Oficial/static/js/main.65141f0d.js",
     "index.html": "/WalMat---Tienda-Oficial/index.html",
     "main.b325cf89.css.map": "/WalMat---Tienda-Oficial/static/css/main.b325cf89.css.map",
-    "main.94eb5b86.js.map": "/WalMat---Tienda-Oficial/static/js/main.94eb5b86.js.map"
+    "main.65141f0d.js.map": "/WalMat---Tienda-Oficial/static/js/main.65141f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.b325cf89.css",
-    "static/js/main.94eb5b86.js"
+    "static/js/main.65141f0d.js"
   ]
 }
